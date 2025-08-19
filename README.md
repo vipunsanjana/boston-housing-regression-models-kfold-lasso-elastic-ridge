@@ -1,6 +1,3 @@
-Perfect! Here’s your **full, polished README.md**, updated to reflect that you only have a **Jupyter Notebook**:
-
-```markdown
 # 🏡 Boston Housing ML Regression
 
 This project demonstrates **Machine Learning Regression Models** using the **Boston Housing dataset**.  
